@@ -1,0 +1,6 @@
+com/example/repository/StudentRepository.class
+com/example/config/DataSourceConfig.class
+com/example/service/StudentService.class
+com/example/restController/StudentController.class
+com/example/domain/Student.class
+com/example/student/studentDetails/StudentDetailsApplication.class
